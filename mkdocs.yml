@@ -1,0 +1,24 @@
+site_name: "Pakistan Honeynet Project"
+site_url: "https://pkhoneynet.alphabase.co"
+theme:
+  name: "material"
+  # custom_dir: overrides
+  favicon: images/favicon.ico
+  logo: images/logo.png
+  font:
+    text: Segoe UI
+  palette:
+    primary: yellow
+    accent: amber
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: research.md
+  - Members: members.md
+  - GSoC:
+    - 2025: gsoc/2025/index.md
+  - Reports: 
+    - Overview: reports/index.md
+    - 2025: reports/2025/index.md
+
