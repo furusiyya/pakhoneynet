@@ -1,7 +1,7 @@
 # Members
 
 
-Information about our chapter's membership and how to get involved.
+Information about our chapter's members and how to get involved.
 
 ## Current Members
 

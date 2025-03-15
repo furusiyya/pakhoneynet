@@ -13,12 +13,13 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Projects: research.md
+  - Projects: projects.md
+  - Research: research.md
   - Members: members.md
-  - GSoC:
-    - 2025: gsoc/2025/index.md
+  - GSoC: gsoc/index.md
   - Reports: 
     - Overview: reports/index.md
     - 2025: reports/2025/index.md
+  - Events: events/index.md
+
 
