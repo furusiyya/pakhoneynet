@@ -10,7 +10,8 @@ theme:
   palette:
     primary: yellow
     accent: amber
-
+markdown_extensions:
+  - admonition
 nav:
   - Home: index.md
   - Projects: projects.md

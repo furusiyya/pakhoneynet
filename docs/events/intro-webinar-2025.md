@@ -1,8 +1,11 @@
 # Intro to Cyber Traps – A Webinar on Honeypots & Cybersecurity Careers
 
-    Date: March 22, 2025
-    Time: 9 AM PKT
-    Platform: Online (Link to be shared upon registration)
+!!! info
+    **Date:** March 22, 2025
+
+    **Time:** 9 AM PKT
+
+    **Platform:** Online (Link to be shared upon registration)
 
 ## Why Attend?
 Join us for an exclusive webinar exploring the fascinating world of honeypots and cyber traps. Learn how cybersecurity professionals use honeypots to detect, analyze, and prevent cyber threats. Discover how mastering these tools can help shape your career in cybersecurity.
@@ -22,9 +25,10 @@ Join us for an exclusive webinar exploring the fascinating world of honeypots an
 
 ## Speakers
 
-Muhammad Bilal Arif – Chapter Lead, Project HoneyNet Pakistan
-Yumna Ghazi  – Cyber Security Researcher & CTO at Alphabase®
+- Muhammad Bilal Arif – Chapter Lead, Project HoneyNet Pakistan
+- Yumna Ghazi  – Cyber Security Researcher & CTO at Alphabase®
 
-📢 Register Now! Secure your spot today and step into the world of cyber deception.
 
-For more details, contact us at `bilal@alphabase.co`.
+📢 **Register Now! Secure your spot today and step into the world of cyber deception.**
+
+**For more details, contact us at `bilal@alphabase.co`.**
