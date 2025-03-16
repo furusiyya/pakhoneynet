@@ -7,9 +7,9 @@ Information about our chapter's members and how to get involved.
 
 ### Core Team
 
-- **Bilal Arif** - Full Member, Chapter Lead  
-- **Yumna Ghazi** - Full Member, Research Lead  
-- **Basit Raza** - Full Member, Technical Lead
+- [**Muhammad Bilal Arif**](https://www.linkedin.com/in/bilal-arif/) - Full Member, Chapter Lead  
+- [**Yumna Ghazi**](https://www.linkedin.com/in/yumnag/) - Full Member, Research Lead  
+- [**Basit Raza**](https://www.linkedin.com/in/basitraza1/) - Full Member, Technical Lead
 
 ## How to Join
 
