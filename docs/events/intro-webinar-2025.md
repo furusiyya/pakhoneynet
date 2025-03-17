@@ -1,7 +1,7 @@
 # Intro to Cyber Traps – A Webinar on Honeypots & Cybersecurity Careers
 
 !!! info
-    **Date:** March 22, 2025
+    **Date:** March 29, 2025
 
     **Time:** 9 AM PKT
 
