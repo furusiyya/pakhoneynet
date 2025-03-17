@@ -5,7 +5,7 @@
 
     **Time:** 9 AM PKT
 
-    **Platform:** Online (Link to be shared upon registration)
+    **Registration Link:** [https://lu.ma/utscmnee](https://lu.ma/utscmnee)
 
 ## Why Attend?
 Join us for an exclusive webinar exploring the fascinating world of honeypots and cyber traps. Learn how cybersecurity professionals use honeypots to detect, analyze, and prevent cyber threats. Discover how mastering these tools can help shape your career in cybersecurity.
